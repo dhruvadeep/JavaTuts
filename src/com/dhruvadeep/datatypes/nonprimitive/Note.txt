@@ -1,0 +1,7 @@
+Classes are one type of Non Primitive types
+
+
+There are normally 3
+1. Arrays
+2. Dates
+3. Classes
